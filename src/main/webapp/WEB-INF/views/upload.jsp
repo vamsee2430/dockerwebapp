@@ -4,7 +4,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
 <c:set var="contextPath" value="${pageContext.request.contextPath}"/>
-<html>
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
 <head>
 <title>Upload File Request Page</title>
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
